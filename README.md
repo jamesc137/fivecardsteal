@@ -105,3 +105,7 @@ For a more advanced version of the game:
 - Don’t rush to end the game — or maybe do. Ending the game prevents you from taking another turn, but forces everyone else into a final decision.
 - Use stealing tactically — to bluff, to remember, or to disrupt.
 - Count the discard row. Everyone sees the ending coming.
+
+---
+© 2025 | Five Card Steal. All rights reserved.  
+Developed by [James Calhoun](https://jamescalhoun.co/)
