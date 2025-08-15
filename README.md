@@ -107,5 +107,28 @@ For a more advanced version of the game:
 - Count the discard row. Everyone sees the ending coming.
 
 ---
+
+## 🌐 Website & SEO
+
+The official Five Card Steal website is optimized for search engines and includes:
+- Comprehensive meta tags and structured data
+- Mobile-responsive design
+- Progressive Web App (PWA) capabilities
+- Sitemap and robots.txt for search engine crawling
+- Open Graph and Twitter Card support for social sharing
+
+Visit [fivecardsteal.com](https://fivecardsteal.com) for the complete game rules and instructions.
+
+## 📁 Project Files
+
+- `index.html` - Main website with game rules and SEO optimization
+- `llm.txt` - AI-friendly project description and metadata
+- `sitemap.xml` - Search engine sitemap
+- `robots.txt` - Search engine crawling instructions
+- `manifest.json` - Progressive Web App manifest
+- `.well-known/security.txt` - Security contact information
+
+---
+
 © 2025 | Five Card Steal. All rights reserved.  
 Developed by [James Calhoun](https://jamescalhoun.co/)

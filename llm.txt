@@ -1,0 +1,71 @@
+# Five Card Steal - Strategic Card Game
+
+## Project Overview
+Five Card Steal is a strategic card game that combines memory, theft mechanics, and poker hand rankings. The game is designed for 3-5 players and takes approximately 15-25 minutes to play. It's suitable for players aged 12 and up.
+
+## Game Description
+Five Card Steal is a unique card game that merges traditional poker mechanics with strategic card stealing and memory elements. Players must build the best 5-card poker hand while navigating a dynamic gameplay system that allows them to steal cards from opponents, draw from a deck, or utilize discarded cards.
+
+## Key Game Features
+- **Strategic Depth**: Combines memory, timing, and tactical decision-making
+- **Card Stealing Mechanics**: Players can steal cards from opponents with restrictions
+- **Poker Hand Rankings**: Uses standard poker hand evaluation
+- **Memory Challenge**: Optional hard mode that prevents looking at cards after setup
+- **Quick Play**: 15-25 minute game duration
+- **Family Friendly**: Suitable for ages 12+
+
+## Game Components
+- 1 Standard 52-card deck (no jokers required)
+- Optional: Player mats with 5 card slots and viewing mirrors
+
+## Gameplay Mechanics
+1. **Setup**: Each player receives 5 cards face down, arranged left to right
+2. **Turn Actions**: Players can draw from deck, steal from opponents, or use discard row
+3. **Card Stealing**: Players can steal cards by position, with anti-steal-back rules
+4. **Game End**: Triggered when 5th card is added to discard row
+5. **Victory**: Highest-ranking poker hand wins
+
+## Target Audience
+- Card game enthusiasts
+- Strategy game players
+- Families looking for engaging group activities
+- Poker players seeking new variations
+- Memory game fans
+
+## SEO Keywords
+Five Card Steal, card game rules, poker card game, memory game, strategy game, family game, board game, card game instructions, how to play Five Card Steal, card stealing game, poker hands game, tabletop game, party game, group card game
+
+## Technical Information
+- **Website**: https://fivecardsteal.com
+- **Creator**: James Calhoun (https://jamescalhoun.co/)
+- **License**: All rights reserved
+- **Platform**: Tabletop/Physical card game
+- **Language**: English
+- **Content Type**: Game rules and instructions
+
+## Content Structure
+The website provides comprehensive game rules including:
+- Complete setup instructions
+- Detailed gameplay mechanics
+- Special rules and restrictions
+- Strategy tips
+- Optional game modes
+- Accessory recommendations
+
+## Related Concepts
+- Poker hand rankings
+- Memory games
+- Strategic card games
+- Family board games
+- Tabletop gaming
+- Card game mechanics
+- Social deduction games
+
+## Usage Guidelines
+This content is designed to help players understand and enjoy the Five Card Steal card game. The rules are presented in a clear, step-by-step format suitable for both beginners and experienced card game players.
+
+## Contact Information
+For questions about the game or website, contact the creator through the provided links in the footer.
+
+## Last Updated
+This information is current as of 2025 and represents the official rules and description of the Five Card Steal card game.
