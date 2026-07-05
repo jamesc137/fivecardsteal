@@ -1,18 +1,24 @@
 {
-  "name": "Five Card Steal - Strategic Card Game",
+  "name": "Five Card Steal — Strategic Card Game Rules",
   "short_name": "Five Card Steal",
-  "description": "Learn how to play Five Card Steal - a strategic card game combining memory, theft, and poker hands",
+  "description": "Official rules for Five Card Steal: a strategic card game combining memory, theft, and poker hands for 3–5 players.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f8f8f8",
-  "theme_color": "#c0392b",
-  "orientation": "portrait-primary",
+  "background_color": "#0a1f0e",
+  "theme_color": "#0a1f0e",
+  "orientation": "any",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎴</text></svg>",
+      "src": "/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
     }
   ],
   "categories": ["games", "education", "entertainment"],

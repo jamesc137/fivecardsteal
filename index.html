@@ -14,6 +14,13 @@
   <meta name="rating" content="general" />
   <meta name="revisit-after" content="30 days" />
   <link rel="canonical" href="https://fivecardsteal.com/" />
+  <link rel="author" href="https://jamescalhoun.co/" />
+  <link rel="alternate" type="text/plain" href="https://fivecardsteal.com/llms.txt" title="LLMs.txt — AI content index" />
+  <link rel="alternate" type="text/plain" href="https://fivecardsteal.com/llms-full.txt" title="Complete rules for AI agents" />
+  <meta name="application-name" content="Five Card Steal" />
+  <meta name="subject" content="Five Card Steal card game rules and instructions" />
+  <meta name="summary" content="Official rules for Five Card Steal: a 3–5 player card game combining memory, theft, and poker hand rankings. Free to play with a standard deck." />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-M3NQ46K65E"></script>
@@ -30,7 +37,10 @@
   <meta property="og:url" content="https://fivecardsteal.com/" />
   <meta property="og:title" content="Five Card Steal: Strategic Card Game of Memory, Theft &amp; Poker Hands" />
   <meta property="og:description" content="Learn how to play Five Card Steal, a strategic card game combining memory, theft, and poker hands. Perfect for 3–5 players ages 12+. Complete rules and strategy guide." />
-  <meta property="og:image" content="https://fivecardsteal.com/og-image.jpg" />
+  <meta property="og:image" content="https://fivecardsteal.com/og-image.png" />
+  <meta property="og:image:width" content="1536" />
+  <meta property="og:image:height" content="1024" />
+  <meta property="og:image:alt" content="Five Card Steal — Memory, Theft, Poker Hands. A strategic tabletop card game." />
   <meta property="og:site_name" content="Five Card Steal" />
   <meta property="og:locale" content="en_US" />
 
@@ -39,7 +49,9 @@
   <meta property="twitter:url" content="https://fivecardsteal.com/" />
   <meta property="twitter:title" content="Five Card Steal: Strategic Card Game of Memory, Theft &amp; Poker Hands" />
   <meta property="twitter:description" content="A strategic card game combining memory, theft, and poker hands for 3–5 players ages 12+." />
-  <meta property="twitter:image" content="https://fivecardsteal.com/og-image.jpg" />
+  <meta property="twitter:image" content="https://fivecardsteal.com/og-image.png" />
+  <meta property="twitter:image:alt" content="Five Card Steal — Memory, Theft, Poker Hands. A strategic tabletop card game." />
+  <meta name="twitter:creator" content="@jamescalhoun" />
 
   <!-- PWA / Mobile -->
   <meta name="theme-color" content="#0a1f0e" />
@@ -49,9 +61,10 @@
   <meta name="apple-mobile-web-app-title" content="Five Card Steal" />
 
   <!-- Favicon -->
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🃏</text></svg>">
-  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🃏</text></svg>">
-  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/favicon.svg">
+  <link rel="manifest" href="/manifest.json">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -69,8 +82,10 @@
     "@context": "https://schema.org",
     "@type": "HowTo",
     "name": "How to Play Five Card Steal",
-    "description": "A strategic card game combining memory, theft, and poker hands for 3–5 players",
-    "image": "https://fivecardsteal.com/og-image.jpg",
+    "description": "Complete rules for Five Card Steal, a strategic card game combining memory, theft, and poker hands for 3–5 players ages 12+.",
+    "image": "https://fivecardsteal.com/og-image.png",
+    "url": "https://fivecardsteal.com/",
+    "inLanguage": "en-US",
     "author": {
       "@type": "Person",
       "name": "James Calhoun",
@@ -81,28 +96,26 @@
       "name": "Five Card Steal",
       "url": "https://fivecardsteal.com/"
     },
-    "mainEntity": {
-      "@type": "HowTo",
-      "name": "How to Play Five Card Steal",
-      "description": "Complete rules and instructions for playing Five Card Steal card game",
-      "step": [
-        {
-          "@type": "HowToStep",
-          "name": "Setup",
-          "text": "Shuffle the deck and deal 5 cards face down to each player. Place cards left to right in a straight line, face down in front of each player. Each player may look at their cards privately and rearrange them once before the game begins."
-        },
-        {
-          "@type": "HowToStep",
-          "name": "Gameplay",
-          "text": "Players take turns choosing to draw from the deck, steal from another player, or take the top card from the discard row. The game ends when the fifth card is added to the discard row."
-        },
-        {
-          "@type": "HowToStep",
-          "name": "Winning",
-          "text": "All players reveal their hands. The winner is the player with the highest-ranking poker hand. In the event of a tie, use standard poker tiebreakers."
-        }
-      ]
-    },
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Setup",
+        "text": "Shuffle the deck and deal 5 cards face down to each player. Place cards left to right in a straight line, face down in front of each player. Each player may look at their cards privately and rearrange them once before the game begins."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Gameplay",
+        "text": "Players take turns choosing to draw from the deck, steal from another player, or take the top card from the discard row. The game ends when the fifth card is added to the discard row."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Winning",
+        "text": "All players reveal their hands. The winner is the player with the highest-ranking poker hand. In the event of a tie, use standard poker tiebreakers."
+      }
+    ],
     "supply": [
       {
         "@type": "HowToSupply",
@@ -150,7 +163,15 @@
       "url": "https://fivecardsteal.com/"
     },
     "gamePlatform": "Tabletop",
-    "url": "https://fivecardsteal.com/"
+    "url": "https://fivecardsteal.com/",
+    "image": "https://fivecardsteal.com/og-image.png",
+    "playMode": "MultiPlayer",
+    "typicalAgeRange": "12-",
+    "timeRequired": "PT20M",
+    "gameItem": {
+      "@type": "Thing",
+      "name": "Standard 52-card deck"
+    }
   }
   </script>
 
@@ -199,8 +220,92 @@
           "@type": "Answer",
           "text": "The game ends when the fifth card is added to the discard row. The player who causes the fifth discard does not take another turn. All remaining players take one final turn, then everyone reveals their hands and the best poker hand wins."
         }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the objective of Five Card Steal?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Build the best 5-card poker hand by drawing, stealing, or swapping cards while keeping your hand secret and card positions locked."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is Five Card Steal free to play?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Five Card Steal is free to play with any standard 52-card deck. No purchase required."
+        }
       }
     ]
+  }
+  </script>
+
+  <!-- Structured Data: WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Five Card Steal",
+    "alternateName": "Five Card Steal Card Game Rules",
+    "url": "https://fivecardsteal.com/",
+    "description": "Official rules and strategy guide for Five Card Steal, a strategic tabletop card game for 3–5 players.",
+    "inLanguage": "en-US",
+    "author": {
+      "@type": "Person",
+      "name": "James Calhoun",
+      "url": "https://jamescalhoun.co/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Five Card Steal",
+      "url": "https://fivecardsteal.com/"
+    }
+  }
+  </script>
+
+  <!-- Structured Data: Organization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Five Card Steal",
+    "url": "https://fivecardsteal.com/",
+    "logo": "https://fivecardsteal.com/favicon.svg",
+    "founder": {
+      "@type": "Person",
+      "name": "James Calhoun",
+      "url": "https://jamescalhoun.co/"
+    },
+    "sameAs": [
+      "https://jamescalhoun.co/"
+    ]
+  }
+  </script>
+
+  <!-- Structured Data: WebPage (AEO speakable) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Five Card Steal: Strategic Card Game Rules",
+    "url": "https://fivecardsteal.com/",
+    "description": "Learn how to play Five Card Steal — a strategic card game combining memory, theft, and poker hands for 3–5 players ages 12+.",
+    "inLanguage": "en-US",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Five Card Steal",
+      "url": "https://fivecardsteal.com/"
+    },
+    "about": {
+      "@type": "Game",
+      "name": "Five Card Steal"
+    },
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [".hero-tagline", ".objective-text", ".faq-answer"]
+    },
+    "dateModified": "2026-07-04"
   }
   </script>
 
@@ -1478,6 +1583,60 @@
     }
 
     /* ============================================================
+       FAQ (AEO)
+    ============================================================ */
+    .faq-list {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .faq-item {
+      border: 1px solid rgba(192, 57, 43, 0.12);
+      border-radius: var(--radius-sm);
+      background: #fff;
+      overflow: hidden;
+    }
+
+    .faq-item summary {
+      cursor: pointer;
+      padding: 18px 22px;
+      font-family: var(--font-display);
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--ink);
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .faq-item summary::-webkit-details-marker { display: none; }
+
+    .faq-item summary::after {
+      content: '+';
+      flex-shrink: 0;
+      font-family: var(--font-body);
+      font-size: 1.2rem;
+      color: var(--red);
+      transition: transform 0.2s;
+    }
+
+    .faq-item[open] summary::after {
+      content: '−';
+    }
+
+    .faq-answer {
+      padding: 0 22px 18px;
+      color: #444;
+      font-size: 0.95rem;
+      line-height: 1.65;
+    }
+
+    /* ============================================================
        FOOTER
     ============================================================ */
     .site-footer {
@@ -1882,6 +2041,7 @@
       <li><a href="#game-end"><span class="nav-full">Game End</span><span class="nav-short">End</span></a></li>
       <li><a href="#rules"><span class="nav-full">Rules</span><span class="nav-short">Rules</span></a></li>
       <li><a href="#strategy"><span class="nav-full">Strategy</span><span class="nav-short">Tips</span></a></li>
+      <li><a href="#faq"><span class="nav-full">FAQ</span><span class="nav-short">FAQ</span></a></li>
     </ul>
   </nav>
 
@@ -2299,6 +2459,73 @@
             <div class="strategy-card-num" aria-hidden="true">03</div>
             <p>Count the discard row. Everyone can see the end coming when four cards are down. How you play that last turn matters.</p>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         FAQ
+    ============================================================ -->
+    <section class="section section--light" id="faq" aria-labelledby="faq-heading">
+      <div class="container">
+        <div class="reveal">
+          <div class="section-header">
+            <span class="section-label">Common Questions</span>
+            <div class="section-rule">
+              <h2 id="faq-heading">Frequently Asked Questions</h2>
+            </div>
+          </div>
+        </div>
+
+        <div class="faq-list reveal">
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+            <summary itemprop="name">How many players can play Five Card Steal?</summary>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">Five Card Steal is designed for <strong>3 to 5 players</strong>.</p>
+            </div>
+          </details>
+
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+            <summary itemprop="name">How long does a game of Five Card Steal take?</summary>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">A typical game lasts <strong>15 to 25 minutes</strong>.</p>
+            </div>
+          </details>
+
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+            <summary itemprop="name">What cards do you need to play Five Card Steal?</summary>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">You need one <strong>standard 52-card deck</strong> with no jokers.</p>
+            </div>
+          </details>
+
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+            <summary itemprop="name">What is the objective of Five Card Steal?</summary>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">Build the <strong>best 5-card poker hand</strong> by drawing, stealing, or swapping cards while keeping your hand secret and card positions locked.</p>
+            </div>
+          </details>
+
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+            <summary itemprop="name">Can you steal a card back immediately after it is stolen from you?</summary>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">No. You must wait for <strong>one full table rotation</strong> to pass before you can steal a card back from the player who stole from you.</p>
+            </div>
+          </details>
+
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+            <summary itemprop="name">How does the game end in Five Card Steal?</summary>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">The game ends when the <strong>fifth card</strong> is added to the discard row. The player who causes the fifth discard does not take another turn. All remaining players take one final turn, then everyone reveals their hands and the best poker hand wins.</p>
+            </div>
+          </details>
+
+          <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+            <summary itemprop="name">Is Five Card Steal free to play?</summary>
+            <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+              <p itemprop="text">Yes. Five Card Steal is <strong>free to play</strong> with any standard 52-card deck — no purchase required.</p>
+            </div>
+          </details>
         </div>
       </div>
     </section>

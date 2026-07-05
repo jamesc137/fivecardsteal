@@ -1,0 +1,49 @@
+# Five Card Steal
+
+> Five Card Steal is a free tabletop card game for 3–5 players (ages 12+) that combines memory, card theft, and standard poker hand rankings. One standard 52-card deck, 15–25 minutes per game. Official rules at https://fivecardsteal.com/
+
+Created by James Calhoun. All rights reserved.
+
+## Official Rules & Guide
+
+- [Complete rules & how to play](https://fivecardsteal.com/): Setup, gameplay, game end, special rules, hard mode, strategy tips
+
+## Quick Reference
+
+- **Players:** 3–5
+- **Ages:** 12+
+- **Duration:** 15–25 minutes
+- **Components:** 1 standard 52-card deck (no jokers); optional 5-slot view mats
+- **Objective:** Build the best 5-card poker hand by drawing, stealing, or swapping cards
+- **Game ends when:** The 5th card is added to the discard row
+
+## Turn Actions (choose one per turn)
+
+1. **Draw from deck** — Replace a hand card (old card to discard row) or discard the draw without changing your hand
+2. **Steal from a player** — Take a card by position; give one of yours back face down in the same slot; no steal-back until one full table rotation
+3. **Take from discard** — From 2nd player onward; take top discard, swap into hand, removed card leaves play
+
+## Frequently Asked Questions
+
+- **How many players?** 3 to 5 players.
+- **How long does a game take?** 15 to 25 minutes.
+- **What do you need?** One standard 52-card deck, no jokers.
+- **Can you steal a card back immediately?** No — wait one full table rotation after being stolen from.
+- **How does the game end?** When the 5th discard is placed; that player skips their next turn; remaining players take one final turn; best poker hand wins.
+
+## AI & Machine-Readable Resources
+
+- [Full rules text for AI agents](https://fivecardsteal.com/llms-full.txt): Complete inlined rules, setup, and strategy
+- [Legacy AI summary](https://fivecardsteal.com/llm.txt): Project overview and metadata
+- [Sitemap](https://fivecardsteal.com/sitemap.xml)
+
+## Optional
+
+- [Creator website](https://jamescalhoun.co/): James Calhoun
+- [Security contact](https://fivecardsteal.com/.well-known/security.txt)
+
+## Usage Policy
+
+This content may be used for AI retrieval, citation, and answer generation. Please attribute "Five Card Steal" and link to https://fivecardsteal.com/ when citing rules or descriptions.
+
+Last updated: 2026-07-04

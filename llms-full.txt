@@ -1,0 +1,130 @@
+# Five Card Steal — Complete Rules (AI-Optimized Full Text)
+
+> Authoritative, complete rules for Five Card Steal, a strategic tabletop card game by James Calhoun. Website: https://fivecardsteal.com/
+
+## Overview
+
+Five Card Steal is a strategic card game combining memory, theft mechanics, and poker hand rankings. Designed for 3–5 players, ages 12+, playing time 15–25 minutes. Requires one standard 52-card deck (no jokers). Optional: 5-card view mats with viewing mirrors.
+
+**Objective:** Build the best 5-card poker hand by the end of the game using strategy, memory, and timing to draw, steal, or swap cards while keeping your hand secret and in order.
+
+---
+
+## Contents
+
+- **Standard 52-card deck** (required, no jokers)
+- **5-card view mats** (optional) — player mats with 5 card slots and viewing mirrors for discreet peeks
+
+---
+
+## Setup
+
+1. Shuffle the deck and deal 5 cards face down to each player.
+2. Cards are placed **left to right in a straight line**, face down in front of each player.
+3. Each player may look at their cards privately and **rearrange them once** before the game begins.
+4. Once the first player starts, **card positions may not change**.
+5. Place remaining cards in the center as the **draw pile**.
+6. Leave space next to the draw pile for the **discard row** — a line of up to five face-up cards.
+
+---
+
+## Gameplay
+
+Players take turns in clockwise order. On your turn, choose **one** action:
+
+### 1. Draw from the Deck
+
+- Draw the top card from the draw pile.
+- **Use it:** Replace one of your 5 cards. Place the replaced card face up in the discard row.
+- **Discard it:** Place the drawn card face up in the discard row without changing your hand.
+
+### 2. Steal from a Player
+
+- Choose any player and point to a card by position (e.g., "3rd from the left").
+- Take that card and give them one of your own in return.
+- Both cards stay face down in the same position they were taken from.
+- You may not steal back until after one full round has passed.
+
+### 3. Take from Discard
+
+- Available from the second player's turn onward.
+- Take the most recently discarded card (top of the row).
+- Replace any card in your hand with it; the replaced card is removed from the game entirely.
+
+---
+
+## Game End
+
+- The game ends when the **fifth card** is added to the discard row.
+- The player who places or causes the fifth discard **does not get another turn**.
+- All remaining players take **one final turn**.
+- All players reveal their hands. The winner has the **highest-ranking poker hand**.
+- Ties use standard poker tiebreakers (e.g., high card, suit if needed).
+
+---
+
+## Special Rules
+
+### Card Order
+
+- After setup, card positions are **locked**.
+- Replacements and steals must be placed back in the same slot.
+
+### Steal-Back Rule
+
+- A card cannot be stolen back until a **full table rotation** has passed.
+
+### Forgetting a Card
+
+- In standard mode, you may **look at your cards at any time** to remember them.
+
+---
+
+## Hard Mode: Memory Challenge (Optional)
+
+- After initial arrangement, **players may not look at their cards again**.
+- Turns the game into a pure memory and deduction challenge.
+
+---
+
+## 5-Card View Mat (Optional Accessory)
+
+- 5-slot mat with angled mirrors or viewing windows for discreet peeks.
+- Keeps card order intact while maintaining secrecy and flow.
+
+---
+
+## Strategy Tips
+
+1. Don't rush to end the game — ending blocks your own final turn but forces others into one last decision under pressure.
+2. Use stealing tactically: to bluff, to remember what a position holds, or to disrupt an opponent close to a strong hand.
+3. Count the discard row — when four cards are down, everyone sees the end coming; the last turn matters.
+
+---
+
+## FAQ
+
+**Q: How many players can play Five Card Steal?**
+A: 3 to 5 players.
+
+**Q: How long does a game take?**
+A: 15 to 25 minutes.
+
+**Q: What cards are needed?**
+A: One standard 52-card deck, no jokers.
+
+**Q: Can you steal a card back immediately?**
+A: No. Wait one full table rotation before stealing back from the player who stole from you.
+
+**Q: How does the game end?**
+A: When the 5th card is added to the discard row. The player causing the 5th discard does not take another turn. Remaining players take one final turn, then hands are revealed and the best poker hand wins.
+
+---
+
+## Metadata
+
+- **Website:** https://fivecardsteal.com/
+- **Creator:** James Calhoun — https://jamescalhoun.co/
+- **License:** All rights reserved
+- **Language:** English
+- **Last updated:** 2026-07-04

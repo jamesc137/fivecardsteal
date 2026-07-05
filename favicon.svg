@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Five Card Steal">
+  <defs>
+    <linearGradient id="felt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2912"/>
+      <stop offset="100%" stop-color="#0a1f0e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffe066"/>
+      <stop offset="50%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#a07c20"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="6" fill="url(#felt)"/>
+  <rect x="1.5" y="1.5" width="29" height="29" rx="5" fill="none" stroke="url(#gold)" stroke-width="1.5"/>
+  <!-- Playing card -->
+  <rect x="8" y="5" width="16" height="22" rx="2" fill="#f5f0e8" stroke="#d4af37" stroke-width="0.75"/>
+  <text x="16" y="14" text-anchor="middle" font-family="Georgia, serif" font-size="9" font-weight="700" fill="#c0392b">5</text>
+  <text x="16" y="23" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#1a1a1a">&#9824;</text>
+  <!-- Corner suits -->
+  <text x="10.5" y="9.5" font-family="Georgia, serif" font-size="3" fill="#c0392b">&#9829;</text>
+  <text x="21.5" y="25" font-family="Georgia, serif" font-size="3" fill="#1a1a1a">&#9824;</text>
+</svg>

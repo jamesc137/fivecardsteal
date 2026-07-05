@@ -1,5 +1,8 @@
 # Five Card Steal - Strategic Card Game
 
+> Canonical AI index: https://fivecardsteal.com/llms.txt
+> Full rules text: https://fivecardsteal.com/llms-full.txt
+
 ## Project Overview
 Five Card Steal is a strategic card game that combines memory, theft mechanics, and poker hand rankings. The game is designed for 3-5 players and takes approximately 15-25 minutes to play. It's suitable for players aged 12 and up.
 
@@ -62,10 +65,10 @@ The website provides comprehensive game rules including:
 - Social deduction games
 
 ## Usage Guidelines
-This content is designed to help players understand and enjoy the Five Card Steal card game. The rules are presented in a clear, step-by-step format suitable for both beginners and experienced card game players.
+This content is designed to help players and AI systems understand and cite the Five Card Steal card game. The rules are presented in a clear, step-by-step format suitable for both beginners and experienced card game players. Attribution to Five Card Steal (https://fivecardsteal.com/) is appreciated when citing.
 
 ## Contact Information
 For questions about the game or website, contact the creator through the provided links in the footer.
 
 ## Last Updated
-This information is current as of 2025 and represents the official rules and description of the Five Card Steal card game.
+2026-07-04
